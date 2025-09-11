@@ -12,9 +12,9 @@ Key business questions addressed:
 
 
  
-**Python Notebooks** – [View Here](notebooks)  
-**Excel Preliminary Report** – [View Here](excel_report)  
-**Interactive Power BI Dashboard** – [View Here](powerbi_dashboard)  
+**Python Notebooks** – [Click Here](notebooks)  
+**Excel Preliminary Report** – [Click Here](excel_report)  
+**Interactive Power BI Dashboard** – [Click Here](powerbi_dashboard)  
 
 ---
 
@@ -61,8 +61,8 @@ Before analysis, several preprocessing steps were applied:
 - **Campaigns 17 & 1** lead in ROI (>43%).  
 - **Ads 29 & 23** achieved ROI >70%, while many others underperformed.  
 
-![Top 10 Campaigns](images/top_10_vendors.png)  
-![Top 10 Ads](images/top_10_vendors_contribution.png)  
+![Top 10 Campaigns](images/top_10_campaigns.png)  
+![Top 10 Ads](images/top_10_ads.png)  
 
 ---
 
@@ -70,7 +70,7 @@ Before analysis, several preprocessing steps were applied:
 - Top keywords (**“herself”, “where”**) generated ROI >50%.  
 - Several keywords showed **high spend but low conversions**, signaling wasted budget.  
 
-![Top 10 Keywords](images/underperforming_brands_scatter_chart.png)  
+![Top 10 Keywords](images/top_10_keywords.png)  
 
 ---
 
@@ -78,7 +78,7 @@ Before analysis, several preprocessing steps were applied:
 - **UK** achieved the highest ROI (55%), followed by **UAE (23%)**.  
 - **India & USA underperformed** (<15% ROI).  
 
-![Regional Insights](images/impact_of_bulk_purchase.png)  
+![Regional Insights](images/regional_insights.png)  
 
 ---
 
@@ -86,7 +86,7 @@ Before analysis, several preprocessing steps were applied:
 - **Age group 18–25** showed the strongest ROI (>40%).  
 - Older age groups had declining ROI, suggesting reduced effectiveness.  
 
-![Customer Insights](images/impact_of_bulk_purchase.png)  
+![Customer Insights](images/customer_insights.png)  
 
 ---
 
@@ -94,7 +94,7 @@ Before analysis, several preprocessing steps were applied:
 - Only **0.24% of total spend** was wasted.  
 - Wasted budget was concentrated in **low CTR / high CPC ads**.  
 
-![Budget Waste Analysis](images/impact_of_bulk_purchase.png)  
+![Budget Waste Analysis](images/budget_waste_analysis.png)  
 
 ---
 
@@ -115,10 +115,10 @@ Before analysis, several preprocessing steps were applied:
 ---
 
 ## Project Artifacts  
-- **SQL Queries** – [View Here](sql)  
-- **Python Notebooks** – [View Here](notebooks)  
-- **Excel Preliminary Dashboard** – [View Here](excel_report)  
-- **Power BI Executive Dashboard** – [View Here](powerbi_dashboard)  
+- **SQL Queries** – [Click Here](sql)  
+- **Python Notebooks** – [Click Here](notebooks)  
+- **Excel Preliminary Dashboard** – [Click Here](excel_report)  
+- **Power BI Executive Dashboard** – [Click Here](powerbi_dashboard)  
 
 ---
 

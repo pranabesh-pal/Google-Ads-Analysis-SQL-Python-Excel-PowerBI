@@ -5,10 +5,10 @@ This project analyzes **Google Ads campaign performance** for a digital marketin
 The goal of this analysis is to uncover **critical insights** about ad performance, identify inefficiencies, and provide actionable recommendations to optimize budget allocation.  
 
 Key business questions addressed:
-- **Which campaigns and ads generate the highest ROI and CTR?**  
-- **Which keywords drive the most traffic and conversions vs. waste budget?**  
-- **How does ad performance vary across regions and customer demographics?**  
-- **What portion of budget is being wasted on low CTR/high CPC ads?**   
+- Which campaigns and ads generate the highest ROI and CTR? 
+- Which keywords drive the most traffic and conversions vs. waste budget? 
+- How does ad performance vary across regions and customer demographics?  
+- What portion of budget is being wasted on low CTR/high CPC ads?  
 
 
  

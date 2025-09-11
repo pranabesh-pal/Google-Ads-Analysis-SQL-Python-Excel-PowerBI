@@ -1,4 +1,4 @@
-# Google Ads Analysis
+# Google Ads Campaign Performance Analysis
 
 This project analyzes **Google Ads campaign performance** for a digital marketing company operating across multiple regions. Since the business relies heavily on paid ads to acquire customers, **ad spend is both expensive and highly competitive**.  
 

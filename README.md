@@ -11,9 +11,9 @@ Key business questions addressed:
 - **What portion of budget is being wasted on low CTR/high CPC ads?**   
 
  
-- **Python Notebooks** – [View Here](notebooks)  
-- **Excel Preliminary Report** – [View Here](excel_report)  
-- **Interactive Power BI Dashboard** – [View Here](powerbi_dashboard)  
+**Python Notebooks** – [View Here](notebooks)  
+**Excel Preliminary Report** – [View Here](excel_report)  
+**Interactive Power BI Dashboard** – [View Here](powerbi_dashboard)  
 
 ---
 

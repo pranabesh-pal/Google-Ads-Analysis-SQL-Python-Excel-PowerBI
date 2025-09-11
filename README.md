@@ -11,7 +11,7 @@ Key business questions addressed:
 - What portion of budget is being wasted on low CTR/high CPC ads?  
 
 
- 
+**Python Notebooks** – [Click Here](sql) 
 **Python Notebooks** – [Click Here](notebooks)  
 **Excel Preliminary Report** – [Click Here](excel_report)  
 **Interactive Power BI Dashboard** – [Click Here](powerbi_dashboard)  
@@ -50,8 +50,8 @@ Before analysis, several preprocessing steps were applied:
 - Less than **0.3% of ad spend is wasted**, but the waste is concentrated in **low CTR / high CPC ads**.  
 
 **Dashboard Preview**  
-![Excel Preliminary Report](images/excel_preliminary_report.png)  
-![Power BI Dashboard](images/powerbi_dashboard.png)  
+![Excel Preliminary Report](images/excel_preliminary_report.PNG)  
+![Power BI Dashboard](images/powerbi_dashboard.PNG)  
 
 ---
 
@@ -61,8 +61,8 @@ Before analysis, several preprocessing steps were applied:
 - **Campaigns 17 & 1** lead in ROI (>43%).  
 - **Ads 29 & 23** achieved ROI >70%, while many others underperformed.  
 
-![Top 10 Campaigns](images/top_10_campaigns.png)  
-![Top 10 Ads](images/top_10_ads.png)  
+![Top 10 Campaigns](images/top_10_campaigns.PNG)  
+![Top 10 Ads](images/top_10_ads.PNG)  
 
 ---
 
@@ -70,7 +70,7 @@ Before analysis, several preprocessing steps were applied:
 - Top keywords (**“herself”, “where”**) generated ROI >50%.  
 - Several keywords showed **high spend but low conversions**, signaling wasted budget.  
 
-![Top 10 Keywords](images/top_10_keywords.png)  
+![Top 10 Keywords](images/top_10_keywords.PNG)  
 
 ---
 
@@ -78,7 +78,7 @@ Before analysis, several preprocessing steps were applied:
 - **UK** achieved the highest ROI (55%), followed by **UAE (23%)**.  
 - **India & USA underperformed** (<15% ROI).  
 
-![Regional Insights](images/regional_insights.png)  
+![Regional Insights](images/regional_insights.PNG)  
 
 ---
 
@@ -86,7 +86,7 @@ Before analysis, several preprocessing steps were applied:
 - **Age group 18–25** showed the strongest ROI (>40%).  
 - Older age groups had declining ROI, suggesting reduced effectiveness.  
 
-![Customer Insights](images/customer_insights.png)  
+![Customer Insights](images/customer_insights.PNG)  
 
 ---
 
@@ -94,7 +94,7 @@ Before analysis, several preprocessing steps were applied:
 - Only **0.24% of total spend** was wasted.  
 - Wasted budget was concentrated in **low CTR / high CPC ads**.  
 
-![Budget Waste Analysis](images/budget_waste_analysis.png)  
+![Budget Waste Analysis](images/budget_waste_analysis.PNG)  
 
 ---
 
@@ -125,7 +125,7 @@ Before analysis, several preprocessing steps were applied:
 ## Dashboard Snapshots  
 
 ### Excel Preliminary Report  
-![Excel Preliminary Report](images/excel_preliminary_report.png)  
+![Excel Preliminary Report](images/excel_preliminary_report.PNG)  
 
 ### Power BI Executive Dashboard  
-![Power BI Dashboard](images/powerbi_dashboard.png)  
+![Power BI Dashboard](images/powerbi_dashboard.PNG)  

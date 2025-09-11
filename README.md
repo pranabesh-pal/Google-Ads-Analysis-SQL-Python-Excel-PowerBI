@@ -10,6 +10,7 @@ Key business questions addressed:
 - **How does ad performance vary across regions and customer demographics?**  
 - **What portion of budget is being wasted on low CTR/high CPC ads?**   
 
+
  
 **Python Notebooks** – [View Here](notebooks)  
 **Excel Preliminary Report** – [View Here](excel_report)  

@@ -17,7 +17,7 @@ Key business questions addressed:
 
 **Excel Preliminary Report** – [Click Here](excel_report)  
 
-**Interactive Power BI Dashboard** – [Click Here](powerbi_dashboard)  
+**Interactive Power BI Dashboard** – [Click Here][(powerbi_dashboard)](https://app.powerbi.com/view?r=eyJrIjoiZTZhYTk5MjktMGZlZS00YTVmLTk3ZDMtN2M0MzBkOWQ5ZGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
